@@ -1,10 +1,12 @@
 # customDatePicker
 Avec la version 7.3.2 de bonita
 
-Etape 1 <br>
+Etape 1
+------
   Importez d'abord votre widget
 <br>
-Etape 2 <br>
+Etape 2
+------
   Importez la page tous les test
   
-  https://i.imgur.com/iOwiYXs.png
+  ![Alt text](https://i.imgur.com/iOwiYXs.png)
